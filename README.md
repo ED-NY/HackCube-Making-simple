@@ -1,17 +1,14 @@
 # HackCube-Making-simple
-===
 ##Hackcube-special easy to diy
-==
- 相信hacknown的产品hackcube special引起了许多无线电安全爱好者的关注，，当然我也是，hackcube-special是360团队的一个开源项目
- 附下链接：https：//github.com/UnicornTeam/HackCube-special
- 这个项目是hackcube（大的）的简化版，好多的功能实现不了，但是hackcube作为一个无线电安全产品来讲是很棒的。
- hackcube-specialke可以实现badusb功能通过arduino pro mical
- 可以实现对433 315信号的干扰，录听，重放功能，还可以分析滚动码，但是这个功能没有什么明显的用途，滚动码的复杂程度大家都是知道的，这些功能的实现通过cc101
- 模块
- 还有低频卡的模拟，爆破，写卡功能通过em模块
- 还有2.4g信号的一个模块nrf24l01这部分功能在arduino的源码里存在但是在esp8266的web里注释掉了】
- 功能在unicornteam的项目地址里有很明确的说明
- 好了，废话不多说。
+ 相信hacknown的产品hackcube special引起了许多无线电安全爱好者的关注，当然我也是，hackcube-special是360团队的一个开源项目 <br>
+ 附下链接：https：//github.com/UnicornTeam/HackCube-special \<br>
+ 这个项目是hackcube（大的）的简化版，好多的功能实现不了，但是hackcube作为一个无线电安全产品来讲是很棒的。<br>
+ hackcube-specialke可以实现badusb功能通过arduino pro mical \<br>
+ 可以实现对433 315信号的干扰，录听，重放功能，还可以分析滚动码，但是这个功能没有什么明显的用途，滚动码的复杂程度大家都是知道的，这些功能的实现通过cc101模块<br>
+ 还有低频卡的模拟，爆破，写卡功能通过em模块\<br>
+ 还有2.4g信号的一个模块nrf24l01这部分功能在arduino的源码里存在但是在esp8266的web里注释掉了<br>
+ 功能在unicornteam的项目地址里有很明确的说明\<br>
+ 好了，废话不多说。<br>
  这个储存库是我自制的pcb板，方便diy，还有就是hackcube-special已经销售尽了，但是好多人没有买到，自己看了一下项目有pcb文件
  用的是四层板加上；元件；外壳；贴片焊接；钢网；成本可想而知，其实可以根据社区里的图买模块来自己焊接，缺点是不美观。
  综上，我选择了自己画个pcb板，平衡美观成本焊接难度的问题。
