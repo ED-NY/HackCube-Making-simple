@@ -10,7 +10,7 @@
  好了，废话不多说。<br>
  这个储存库是我自制的pcb板，方便diy，还有就是hackcube-special已经销售尽了，但是好多人没有买到，自己看了一下项目有pcb文件<br>
  用的是四层板加上；元件；外壳；贴片焊接；钢网；成本可想而知，其实可以根据社区里的图买模块来自己焊接，缺点是不美观。<br>
- ![image](
+ ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG20200210144422.jpg)
  综上，我选择了自己画个pcb板，平衡美观成本焊接难度的问题<br>
  值得一提的是原版的hackcube-special体积虽然小但是cc1101模块的信号距离比较近，所以，我在画pcb的时候对这个模块采用了ipex天线的形式<br>
  经过我自己的测试信号扩大了很多。<br>
@@ -19,10 +19,10 @@
  这个板子是二层板长57mm宽31mm与一块esp8266模块带ch340串口的一样，方便组装<br>
  分为顶板和底板两个部分在jlc制作才5人民币.
  ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/up.jpg)
- ![image](
+ ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG_20200210_142628.jpg)
  顶板主要是cc1101模块，arduino，状态灯等<br>
-![image](
-![image](
+![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/under.jpg)
+![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG_20200210_142640.jpg)
  底板比较简单没有接线，留下了低频天线位和模块位，这也是这个pcb的不足之处，只能通过飞线建立模块与arduino的链接，后续我会修改。<br>
  下面是以上文字的英语
 Here is the English of the above words.<br>
