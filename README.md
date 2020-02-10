@@ -18,7 +18,7 @@
  如果后期在原项目里有添加我会重新画板。<br>
  这个板子是二层板长57mm宽31mm与一块esp8266模块带ch340串口的一样，方便组装<br>
  分为顶板和底板两个部分在jlc制作才5人民币.
- ![image](
+ ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/up.jpg)
  ![image](
  顶板主要是cc1101模块，arduino，状态灯等<br>
 ![image](
