@@ -1,8 +1,8 @@
 # HackCube-Making-simple
  相信hacknown的产品hackcube special引起了许多无线电安全爱好者的关注，当然我也是，hackcube-special是360团队的一个开源项目 <br>
- 附下链接：https：//github.com/UnicornTeam/HackCube-special <br>
- 这个项目是hackcube（大的）的简化版，好多的功能实现不了，但是hackcube作为一个无线电安全产品来讲是很棒的。<br>
- hackcube-specialke可以实现badusb功能通过arduino pro mical <br>
+ 附下链接：https://github.com/UnicornTeam/HackCube-special <br>
+ 这个项目是hackcube（大的）的简化版，好多的功能实现不了，但是hackcube special作为一个无线电安全产品来讲是很棒的。<br>
+ hackcube-special可以实现badusb功能通过arduino pro mical <br>
  可以实现对433 315信号的干扰，录听，重放功能，还可以分析滚动码，但是这个功能没有什么明显的用途，滚动码的复杂程度大家都是知道的，这些功能的实现通过cc101模块<br>
  还有低频卡的模拟，爆破，写卡功能通过em模块<br>
  还有2.4g信号的一个模块nrf24l01这部分功能在arduino的源码里存在但是在esp8266的web里注释掉了<br>
