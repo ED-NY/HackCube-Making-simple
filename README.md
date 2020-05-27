@@ -1,29 +1,5 @@
 # HackCube-Making-simple
  
- 附下链接：https://github.com/UnicornTeam/HackCube-special <br>
- 
- hackcube-special可以实现badusb功能通过arduino pro micro<br>
- 可以实现对433 315信号的干扰，录听，重放功能。还可以分析滚动码，但是这个功能没有什么明显的用途，滚动码的复杂程度大家都是知道的，这些功能的实现通过cc101模块<br>
- 还有低频卡的模拟，爆破，写卡功能通过em模块<br>
- 还有2.4g信号的一个模块nrf24l01这部分功能在arduino的源码里存在但是在esp8266的web里注释掉了<br>
- 功能在unicornteam的项目地址里有很明确的说明<br>
- 好了，废话不多说。<br>
- 这个储存库是我自制的pcb板，方便diy，还有就是hackcube-special已经销售尽了，但是好多人没有买到，自己看了一下项目有pcb文件<br>
- 用的是四层板加上；元件；外壳；贴片焊接；钢网；成本可想而知，其实可以根据社区里的图买模块来自己焊接，缺点是不美观。<br>
- ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG20200210144422.jpg)
- 综上，我选择了自己画个pcb板，平衡美观成本焊接难度的问题<br>
- 由于在原版的代码里关于2.4g模块的代码注释掉了，所以我在画pcb的时候没有考虑添加nrf24l01模块<br>
- 如果后期在原项目里有添加我会重新画板。<br>
- 这个板子是二层板长57mm宽31mm与一块esp8266模块带ch340串口的一样，方便组装<br>
- 分为顶板和底板两个部分在jlc制作才5人民币.
- ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/up.jpg)
- ![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG_20200210_142628.jpg)
- 顶板主要是cc1101模块，arduino，状态灯等<br>
-![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/under.jpg)
-![image](https://github.com/ED-NY/HackCube-Making-simple/blob/master/IMG_20200210_142640.jpg)
- 底板比较简单没有接线，留下了低频天线位和模块位，这也是这个pcb的不足之处，只能通过飞线建立模块与arduino的链接，后续我会修改。<br>
- 下面是以上文字的英语
-Here is the English of the above words.<br>
  It is believed that hackcube special, a hacknown product, has attracted the attention of many radio security enthusiasts. Of course, I am also an open source project of 360 team.<br>
 
 The following link is attached: https://github.com/unicornteam/hackcube-special <br>
