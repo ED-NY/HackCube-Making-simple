@@ -32,6 +32,10 @@ It is divided into two parts: the top plate and the bottom plate, which are only
 
 The backplane is relatively simple without wiring, leaving the low-frequency antenna bit and module bit, which is also the disadvantage of this PCB. Only through the Flywire to establish the link between the module and Arduino, I will modify later. <br>
 
+The new PCB removes a part of the upper board in order to provide space for the electrolytic capacitor on the low-frequency module, so as to reduce the overall thickness. The upper board has 6 rows of pins on the top left, which are used to connect the lower board and communicate with the low-frequency module.
+When making by ourselves, we should pay attention to cutting the row needles properly, otherwise it will have a great influence on the thickness. Compared with the previous one, the biggest advantage of this board is that it doesn't need flying wires.
+
+
 
  
 
