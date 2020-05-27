@@ -36,11 +36,11 @@ When making by ourselves, we should pay attention to cutting the row needles pro
 The new PCB adjusts the number of turns of the low-frequency coil, because the reading distance of the last PCB is very close during the test. For convenience, the USB position of the ESP 8266 module and the Arduino module is adjusted to the right. Therefore, during welding, the welding method of upper plate is to place the surface without components of Arduino close to PCB, the<br> surface without components of ESP module close to the surface with components of Arduino, and the micro interface of two modules is on the right side. So here, we need to adjust the length of the row needle. Close to it does not affect its normal operation.<br>
 
 What needs to be used<br>
-1.arduino pro micro
+1.arduino pro micro<br>
 2. Esp8266 with CP2102<br>
-3.led WS2812B
+3.led WS2812B<br>
 4. Cc1101 module<br>
-5. EM4095 module
+5. EM4095 module<br>
 
 
  
