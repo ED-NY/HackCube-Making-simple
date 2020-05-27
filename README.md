@@ -1,10 +1,6 @@
 # HackCube-Making-simple
  
- It is believed that hackcube special, a hacknown product, has attracted the attention of many radio security enthusiasts. Of course, I am also an open source project of 360 team.<br>
-
-The following link is attached: https://github.com/unicornteam/hackcube-special <br>
-
-This project is a simplified version of hackcube (large), many functions can't be realized, but as a radio security product, hackcube is great. <br>
+https://github.com/unicornteam/hackcube-special <br>
 
 Hackcube specialke can realize badusb function through Arduino Pro micro <br>
 
